@@ -1,0 +1,1 @@
+wmic csproduct get vendor > Resources\CompanyLog.txt

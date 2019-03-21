@@ -1,0 +1,1 @@
+(Get-Item "C:\Program Files\ESET\RemoteAdministrator\Agent\ERAAgent.exe").VersionInfo.FileVersion | Out-File -filepath Resources\ESETAGENT.txt

@@ -1,0 +1,1 @@
+wmic cpu get name > Resources\cpu_log.txt

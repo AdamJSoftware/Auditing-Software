@@ -1,0 +1,1 @@
+wmic logicaldisk get size > Resources\DiskLog.txt

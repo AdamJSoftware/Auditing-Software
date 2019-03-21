@@ -1,0 +1,1 @@
+wmic MEMORYCHIP get Capacity > Resources/RAMLog.txt
